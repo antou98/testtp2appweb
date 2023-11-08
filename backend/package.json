@@ -19,8 +19,8 @@
     "mysql": "^2.18.1",
     "npm": "^10.2.3"
   },
-  "description": "",
   "devDependencies": {
     "nodemon": "^3.0.1"
-  }
+  },
+  "description": ""
 }
